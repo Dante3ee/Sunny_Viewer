@@ -17,4 +17,11 @@ Sunny est un chat jaune et il s'en fout que vous trouvez ce projet useless. :)
 4. A downloading will starts
 
 <h3> From .py to exectutable (easiest way) </h3>
-1. 
+1. Open Cmd<br />
+2. Type: auto-py-to-exe <br />
+3. Put the path of sunny_viewer.py in Script location.<br />
+4. Select Onedirectory and Window Based.<br />
+5. Select your icon in Icon section.<br />
+6. Click on setting and change output directory to the directory where the image folder is.
+7. Click on "CONVERT .PY TO .EXE".L<br />
+8. Open sunny_viewer.exe<br />
